@@ -1,2 +1,2 @@
 # UART
-Auther : ShaJin
+Author : ShaJin
